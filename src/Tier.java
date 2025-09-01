@@ -1,5 +1,5 @@
 public class Tier {
-    void essen() {
-        System.out.println("Das TTier isst.");
+    String essen() {
+        return "Mein Hund erbt und isst";
     }
 }

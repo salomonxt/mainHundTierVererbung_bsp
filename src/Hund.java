@@ -1,5 +1,5 @@
 public class Hund extends Tier {
     String bellen() {
-        return "Der Hunddd bellt.";
+        return "und wegen extends bellt er.";
     }
 }
