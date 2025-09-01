@@ -1,5 +1,5 @@
 public class Hund extends Tier {
     String bellen() {
-        return "Der Hundd bellt.";
+        return "Der Hunddd bellt.";
     }
 }
